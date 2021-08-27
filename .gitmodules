@@ -1,3 +1,6 @@
 [submodule "send-love"]
 	path = send-love
 	url = https://github.com/RafiB/send-love-frontend
+[submodule "send-love-cms"]
+	path = send-love-cms
+	url = https://github.com/RafiB/send-love-cms
