@@ -1,0 +1,9 @@
+Hug catalogue
+* https://tenor.com/view/hugs-sending-virtual-hugs-loading-gif-8158818
+* https://tenor.com/view/virtual-hug-ghost-hug-cant-feel-it-gif-7939501
+* https://tenor.com/view/love-you-gif-18402894
+* https://tenor.com/view/milk-and-mocha-bear-couple-line-hug-cant-breathe-gif-12687187
+* https://tenor.com/view/boo-hug-monsters-inc-sully-warmhug-gif-10592083
+* https://tenor.com/view/vriend-beste-vriend-goed-gedaan-gif-10178443
+* https://tenor.com/view/love-hug-hugs-couple-goals-relationship-goals-gif-5659915
+* https://tenor.com/view/puuung-cute-hug-love-gif-13113601
