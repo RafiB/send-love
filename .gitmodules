@@ -1,0 +1,3 @@
+[submodule "send-love"]
+	path = send-love
+	url = https://github.com/RafiB/send-love-frontend
